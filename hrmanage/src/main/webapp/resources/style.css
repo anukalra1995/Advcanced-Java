@@ -1,0 +1,81 @@
+*{ 
+	margin: 0; 
+	padding: 0; 
+}
+body{
+	background-image:url("back.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+.clear{ 
+	clear: both; 
+}
+
+form{ 
+	width: 500px; 
+	margin: 80px auto 0; 
+}
+.header{
+	text-align:center;
+	border-bottom:2px solid black;
+	margin-top:30px;
+	width:100%;
+	padding:30px;
+		 		
+}
+fieldset{
+	border: 1px solid black; 
+	padding: 10px;
+}
+
+label{ 
+	width: 115px; 
+	text-align: right; 
+	float: left; 
+	margin-right:50px; 
+	padding: 9px 0 0 0; 
+	font-size: 16px; 
+}
+.refers{
+	margin-top:30px;
+}
+input{ 
+	width: 220px; 
+	display: block; 
+	padding: 4px; 
+	margin: 0 0 10px 0; 
+	font-size: 18px;
+	color: #3a3a3a; 
+	font-family: Georgia, serif;
+}
+input[type=checkbox]{ 
+	width: 20px; 
+	margin: 0; 
+	display: inline-block; 
+}
+					  
+.button{ 
+	background: url("button-bg.png") repeat-x top center; 
+	border: 1px solid #999;
+	-moz-border-radius: 5px; 
+	color: black; 
+	font-weight: bold;
+	-webkit-border-radius: 5px; 
+	font-size: 20px;  
+	width: 100px; 
+	margin-left:45%;
+}
+.button:hover{ 
+	background: white; 
+	color: black; 
+}
+
+.footer{
+	text-align:center;
+	border-top:2px solid black;
+	margin-top:60px;
+	width:100%;
+	padding: 30px;
+		 		
+}
