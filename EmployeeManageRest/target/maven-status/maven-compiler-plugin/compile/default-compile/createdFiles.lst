@@ -1,0 +1,7 @@
+com\nagarro\repository\MyResource.class
+com\nagarro\interfaces\EmployeDaoInt.class
+com\nagarro\dao\EmployeeDaoImpl.class
+com\nagarro\model\Employee.class
+com\nagarro\service\EmployeeServiceImpl.class
+com\nagarro\interfaces\EmployeeServiceInt.class
+com\nagarro\util\HibernateUtil.class
