@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+h3{
+	text-align:center;
+	border-bottom:1px solid black;
+	width:100%;
+	padding: 10px;
+}
+
+.containers{
+	margin-top:40px;
+}
+
+.required
+{
+    color: red;
+}
+.labels{
+	float:left;
+	width:200px;
+}
+			
+#userpass{
+	margin-top:25px;
+}
+			
+.links{
+	text-align:center;
+	margin-top:30px;
+	margin-bottom:20px;
+}
+
+.buttons{
+	text-align:right;
+	border-top:1px solid black;
+	width:100%;
+	padding: 10px;
+}
+#invalids{
+	color: crimson; 
+	text-align: center; 
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
